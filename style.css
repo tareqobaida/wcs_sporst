@@ -1,0 +1,58 @@
+@CHARSET "ISO-8859-1";
+/*
+Theme Name:wcs_sports
+Theme URI: http://www.whitecanvassoft.com
+Author: Md Abu Obaida
+Author URI: http://www.whitecanvassoft.com
+Description: Designed for sports site
+Version: 1.0
+License: GNU General Public License
+License URI: see license.txt
+Tags: Twitter Bootstrap Bootswatch
+
+*/
+
+/* necessary Bootstrap CSS is enqueued in functions.php */
+.space{
+    padding-top: 50px;
+}
+#topnews{
+	height:300px;
+}
+.add{
+	
+	padding:10px 0 10px 0;
+	height:100px;
+	//background-image: url("includes/img/wind-surfing-924892_1280.jpg");
+}
+
+.home-section{
+	margin: 20px 0 20px 0;
+}
+.greybackground2{
+	background-color: #EDEDE8;
+	
+}
+.home-bottom h4, .widget-title{
+	padding:5px;
+}
+
+.home-bottom hr{
+	border-top: 1px solid #823030 !important;
+}
+
+.main-shadow{
+    box-shadow: 0 0 14px #BBBBB9;
+}
+
+.greybackground{
+	background-color: #F5F5F3;
+}
+.addpadding{
+	padding:20px 0 20px 0;
+	
+}
+#sidebar-right{
+	padding-top:10px;
+}
+
